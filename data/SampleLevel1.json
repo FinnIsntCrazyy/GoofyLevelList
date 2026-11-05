@@ -4,15 +4,15 @@
     "author": "FinnIsntCrazyy",
     "creators": ["FinnIsntCrazyy"],
     "verifier": "FinnIsntCrazyy",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://youtube.com",
     "percentToQualify": 70,
     "password": "No Password",
     "records": [
         {
             "user": "none",
-            "link": "",
-            "percent": ,
-            "hz": 
+            "link": "https://youtube.com",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
